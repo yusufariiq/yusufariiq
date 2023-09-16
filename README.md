@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi I'm Ariiq👋
+
+I'm a undergraduate Information technology student with a strong interest in Front-End Development.  I am eager to apply my skills to contribute to impactful web development projects. Passionate about creating visually appealing and user-friendly interfaces.
+
+- 👨‍💻 I'm an enthusiastic Front-End Developer.
+- 🔭 I’m currently working on ASTON Priority Simatupang Hotel & Conference Center as a IT Support Intern
+- 🌱 I’m currently learning Front-End Development
+- 📫 How to reach me: *ariiqyusufdu@gmail.com*
 
 <!--
 **yusufariiq/yusufariiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
