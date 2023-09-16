@@ -6,15 +6,24 @@ I'm a undergraduate Information technology student with a strong interest in Fro
 - 🔭 I’m currently working on ASTON Priority Simatupang Hotel & Conference Center as a IT Support Intern
 - 🌱 I’m currently learning Front-End Development
 - 📫 How to reach me: *ariiqyusufdu@gmail.com*
-- 👯 Connect with me: [Linkedin](https://www.linkedin.com/in/ariiqyusuf/) 
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="21"/></a>
   <br>
-  <br>
+  
+### Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ariiqyusuf/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/ariiqysf/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+  </a>
+</p>
 
-## Github Stats
+### Github Stats
 <p align="left">
 <a href="https://github.com/yusufariiq">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yusufariiq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
