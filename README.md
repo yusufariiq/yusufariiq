@@ -6,6 +6,7 @@ I'm a undergraduate Information technology student with a strong interest in Fro
 - 🔭 I’m currently working on ASTON Priority Simatupang Hotel & Conference Center as a IT Support Intern
 - 🌱 I’m currently learning Front-End Development
 - 📫 How to reach me: *ariiqyusufdu@gmail.com*
+- 👯 Connect with me: [Linkedin](https://www.linkedin.com/in/ariiqyusuf/) 
 
 <!--
 **yusufariiq/yusufariiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
