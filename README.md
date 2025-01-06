@@ -2,8 +2,8 @@
 
 I'm a undergraduate Information technology student with a strong interest in Front-End Development.  I am eager to apply my skills to contribute to impactful web development projects. Passionate about creating visually appealing and user-friendly interfaces.
 
-- 👨‍💻 I'm an enthusiastic Front-End Developer.
-- 🌱 I’m currently learning Front-End Development
+- 👨‍💻 I'm an enthusiastic Web Developer and Data Analyst.
+- 🌱 I’m currently learning Fullstack Development
 - 📫 How to reach me: *ariiqyusufdu@gmail.com*
 
 ### Tech Stack
