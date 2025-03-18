@@ -13,6 +13,9 @@ I'm a undergraduate Information technology student with a strong interest in Fro
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img align="left" alt="Next" title="Next" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
+  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img align="left" alt="TailwindCSS" title="TailwindCSS" width="21px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
   </a>
@@ -34,14 +37,12 @@ I'm a undergraduate Information technology student with a strong interest in Fro
   <br>
   
 ### Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/ariiqyusuf/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/ariiqysf/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
-  </a>
-</p>
+
+<div align="left">
+ [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+ [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariiqyusuf/)
+ [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/ariiqysf/)  
+</div>
 
 ### Github Stats
 <p align="left">
