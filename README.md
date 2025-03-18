@@ -14,7 +14,7 @@ I'm a undergraduate Information technology student with a strong interest in Fro
     <img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img align="left" alt="Next" title="Next" width="21px" src="https://cdn.worldvectorlogo.com/logos/next-icon.svg" />
+    <img align="left" alt="Next" title="Next" width="21px" src="https://cdn.worldvectorlogo.com/logos/next.svg" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img align="left" alt="TypeScript" title="TypeScript" width="21px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
@@ -40,6 +40,18 @@ I'm a undergraduate Information technology student with a strong interest in Fro
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufariiq&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 <!--
 **yusufariiq/yusufariiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
