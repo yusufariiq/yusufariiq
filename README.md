@@ -14,7 +14,7 @@ I'm a undergraduate Information technology student with a strong interest in Fro
     <img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img align="left" alt="Next" title="Next" width="21px" src="https://cdn.worldvectorlogo.com/logos/next-2.svg" />
+    <img align="left" alt="Next" title="Next" width="21px" src="https://cdn.worldvectorlogo.com/logos/next-icon.svg" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img align="left" alt="TypeScript" title="TypeScript" width="21px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
