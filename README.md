@@ -37,18 +37,18 @@ I'm a undergraduate Information technology student with a strong interest in Fro
 <p align="left">
 <a href="https://github.com/yusufariiq">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yusufariiq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufariiq&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yusufariiq&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufariiq&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
 ###
